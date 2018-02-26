@@ -9,6 +9,8 @@ public class testGit {
 		System.out.println("test");
 		System.out.println("kkmtest");
 		
+		System.out.println("sangwook test");
+		
 	}
 
 }
