@@ -7,6 +7,8 @@ public class testGit {
 
 		
 		System.out.println("test");
+		System.out.println("kkmtest");
+		
 	}
 
 }
