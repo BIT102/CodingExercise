@@ -15,5 +15,7 @@ public class WaterMelon {
 		WaterMelon wm = new WaterMelon();
 		System.out.println("n이 3인 경우: " + wm.watermelon(3));
 		System.out.println("n이 4인 경우: " + wm.watermelon(4));
+		
+		System.out.println("kkm test");
 	}
 }
