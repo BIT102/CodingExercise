@@ -17,5 +17,7 @@ public class WaterMelon {
 		System.out.println("n이 4인 경우: " + wm.watermelon(4));
 		
 		System.out.println("ssssssss");
+		
+		System.out.println("sangwook");
 	}
 }
